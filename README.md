@@ -6,7 +6,7 @@
 
 *Computer Engineering #2 @I.T.U*
 
-[*LinkedIn*](www.linkedin.com/in/mehmet-yiğit-ateş-9b746b203/)
+[*LinkedIn*](https://www.linkedin.com/in/mehmet-yiğit-ateş-9b746b203/)
 
 
 ## Prerequisities
